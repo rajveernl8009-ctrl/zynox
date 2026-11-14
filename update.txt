@@ -1,4 +1,4 @@
-version=3.1.0
+version=1.0.0
 url=https://raw.githubusercontent.com/rajveernl8009-ctrl/zynox/main/Zynox.exe
 sha256=3E08CE7A696A784B2FC50B77D0677CC0AF54716012EBE9AFC553524E752C73C7
 notes=Fixed green screen at 1080p.\nNew update popup.
