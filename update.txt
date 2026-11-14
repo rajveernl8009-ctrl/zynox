@@ -1,4 +1,4 @@
-version=1.0.0
+version=1.0.1
 url=https://raw.githubusercontent.com/rajveernl8009-ctrl/zynox/main/Zynox.exe
-sha256=3E08CE7A696A784B2FC50B77D0677CC0AF54716012EBE9AFC553524E752C73C7
-notes=Fixed green screen at 1080p.\nNew update popup.
+sha256=66D3CEC429035EE801E4E95FE3AA6C249341390EBCCAF7B40E126B69860F273F
+notes=Lower idle CPU, no frame drops at recording start, accent themes, saved settings.
