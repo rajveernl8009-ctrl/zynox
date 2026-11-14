@@ -1,4 +1,4 @@
 version=3.1.0
-url=https://github.com/rajveernl8009-ctrl/zynox/blob/0a507a52ee610f0220b611a2563c764aa3a2e2d0/Zynox%20Recorder.exe
+url=https://raw.githubusercontent.com/rajveernl8009-ctrl/zynox/main/Zynox.exe
 sha256=2A4E30E0AF8BA5F3F46638CC85CBEDC29D0A091D16D93FB1D0A718100AD16185
 notes=Fixed green screen at 1080p.\nNew update popup.
