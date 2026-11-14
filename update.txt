@@ -1,0 +1,4 @@
+version=3.1.0
+url=https://github.com/rajveernl8009-ctrl/zynox.exe
+sha256=PASTE_THE_HASH_HERE
+notes=Fixed green screen at 1080p.\nNew update popup.
