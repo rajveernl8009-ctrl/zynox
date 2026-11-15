@@ -1,4 +1,4 @@
-version=1.0.1
+version=1.0.3
 url=https://raw.githubusercontent.com/rajveernl8009-ctrl/zynox/main/Zynox.exe
-sha256=66D3CEC429035EE801E4E95FE3AA6C249341390EBCCAF7B40E126B69860F273F
-notes=Lower idle CPU, no frame drops at recording start, accent themes, saved settings.
+sha256=9BE8798BF76DF4A0F438D6F1AAF6E6B42D011287261A47FE4B95FC1FDDBBA601
+notes=New notification system, smoother update checks and cleaner messages.
