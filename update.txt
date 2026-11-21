@@ -1,4 +1,4 @@
 version=1.1.0
 url=https://raw.githubusercontent.com/rajveernl8009-ctrl/zynox/main/Zynox.exe
-sha256=A7E7E2D570FE33E089473A87A0F77C4B5231058B314BC95BA14794D59FFBE7AA
+sha256=C70C4F4967D5EBBBAD20E3EBA26535BA4AB5EAA255E8FB62B88131060B9F927C
 notes=New notification system, smoother update checks and cleaner messages.
